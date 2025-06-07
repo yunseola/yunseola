@@ -20,4 +20,4 @@
 
 ## 📫 Contact
 - 📧 Email: seola8268@naver.com  
-- 💼 Portfolio: [포트폴리오 보기](https://yourportfolio.site)
+- 💼 Portfolio: [포트폴리오 보기](https://github.com/yunseola/portfolio.git)
