@@ -1,6 +1,13 @@
-# Hello, I'm Seola Yun
-산업공학 기반의 문제 구조화 능력 위에, 웹 개발·AI 비전·데이터 분석까지 폭넓은 기술을 탐색하며  
-실생활 문제를 기술로 해결하는 프로젝트를 만들어가는 개발자입니다.
+# Hello, I'm Seola Yun 👋
+
+산업공학 기반의 **문제 구조화 능력** 위에,  
+웹 개발 · AI 비전 · 데이터 분석 · 로봇 시스템까지 폭넓은 기술을 탐색하며  
+**실생활 문제를 기술로 해결하는 프로젝트를 만드는 개발자**입니다.
+
+사용자의 불편을 발견하면 직접 해결책을 구현해보는 것을 좋아하며,  
+실험하고 배우는 과정 속에서 꾸준히 성장하고 있습니다.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -10,7 +17,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 #### 🤖 AI / Machine Learning  
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ai&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -27,13 +34,31 @@
 
 #### ⚙️ Embedded / Robotics  
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
-![PCA9685](https://img.shields.io/badge/PCA9685-009900?style=flat-square&logo=servo&logoColor=white)
+![PCA9685](https://img.shields.io/badge/PCA9685-009900?style=flat-square)
 
 #### 🧰 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+---
+
+## 🌟 Featured Projects
+
+- 🏭 **SmartFactory PiCar System** – 라인트래킹 + 로봇팔 + YOLO 기반 자동 분류 로봇 시스템  
+- 👁️ **Lookey** – 시각장애인 편의점 안내 AI 비전 서비스  
+- 📇 **명함.zip** – OCR + AI 기반 스마트 명함 관리 앱  
+
+---
+
+## 🎓 Certifications
+
+- 정보처리기사 (산업인력공단 - 2023.11.15)
+- SQLD (한국데이터산업진흥원 - 2024.04.05) 
+- ADsP (한국데이터산업진흥원 - 2024.09.06)  
+
+---
 
 ## 📫 Contact
-- 📧 Email: seola8268@naver.com  
+
+- 📧 Email: **seola8268@naver.com**  
 - 💼 Portfolio: [포트폴리오 보기](https://github.com/yunseola/portfolio.git)
