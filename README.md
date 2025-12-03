@@ -25,9 +25,9 @@
 #### 🗄️ Database  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### ⚙️ DevOps / Infra  
+#### ⚙️ Embedded / Robotics  
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PCA9685](https://img.shields.io/badge/PCA9685-009900?style=flat-square&logo=servo&logoColor=white)
 
 #### 🧰 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
